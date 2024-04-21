@@ -8,11 +8,6 @@ body {
    
   }
 
-  h1{
-    font-family: "Raleway", sans-serif;
-  font-optical-sizing: auto;
-  }
-
   h1,h2,h3,h4,h5{
 padding: 0;
 margin: 0;
@@ -24,7 +19,16 @@ margin: 0;
   }
 
   .pageTitle{
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
     color: var(--blue);
     font-size: rem-calc(40);
-    
+    font-weight: 900;
+    margin-bottom: 32px;
+  }
+
+  .contentSectionTitle{
+    font-size: rem-calc(28);
+    font-weight: 600;
+    margin-bottom: 16px;
   }
