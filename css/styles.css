@@ -384,9 +384,18 @@ p {
 /* =============
     Buttons
 ============= */
+button {
+  border: none;
+  cursor: pointer;
+}
+
 .redButton {
   background-color: var(--red);
   color: var(--white);
+  font-size: 1.125rem;
+  font-weight: 800;
+  padding: 16px 40px;
+  border-radius: 8px;
 }
 
 /* =============
