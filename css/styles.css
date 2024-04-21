@@ -13,13 +13,13 @@ html {
 :root {
   --black: #000000;
   --white: #ffffff;
-  --aqua: #598392
-  --blue: #124559
-  --blueDark: #01161e
-  --green: #aec3b0
-  --seaFoamGreen: #eff6e0
-  --redDark: #ad403a
-  --red: #f25c54 ;
+  --aqua: #598392;
+  --blue: #124559;
+  --blueDark: #01161e;
+  --green: #aec3b0;
+  --seaFoamGreen: #eff6e0;
+  --redDark: #ad403a;
+  --red: #f25c54;
 }
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
