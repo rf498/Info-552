@@ -942,12 +942,11 @@ footer > div ul li a {
 }
 @media (min-width: 1200px) {
   #views-hero p {
-    padding: 300px;
+    padding: 0 300px;
   }
 }
 
 #views-gallery {
-  padding: 0 16px 32px 16px;
   display: -ms-grid;
   display: grid;
   gap: 16px;

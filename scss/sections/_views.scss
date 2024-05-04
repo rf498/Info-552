@@ -17,15 +17,13 @@
     p{
         color: var(--blue);
         @include xl{
-            padding: 300px;
+            padding: 0 300px;
         }
     }
 
 }
 
 #views-gallery{
-
-        padding: 0 16px 32px 16px;
 
         display: grid;
         gap: 16px;
